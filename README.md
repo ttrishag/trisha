@@ -1,3 +1,4 @@
 # trisha
 my first git hub repository 
-author: Trisha Gupta
+<br>
+Author: Trisha Gupta
